@@ -7,7 +7,19 @@ display: flex;
 align-items: center;
 }
 
-
+.bar{
+    margin-left: 600px;
+    position: absolute;
+    width: 306px;
+    height: 64px;
+    left: 320px;
+    top: 50px;
+    }
+    
+    .Link{
+        margin-right: 30px;
+        color: navy;
+    }
 
 .Heading{
     position: absolute;
