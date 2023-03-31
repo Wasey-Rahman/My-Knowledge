@@ -1,6 +1,12 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import './Learn.css'
 const Learn = () => {
+    const[item ,setItem] = useState([]);
+    useEffect(() =>{
+    fetch('item.json')
+    .then(res => res.json())
+    .then(data => setItem(data))
+    },[])
     return (
         <div className='Learn-container'>
             <div className="item-container">

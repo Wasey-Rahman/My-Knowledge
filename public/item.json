@@ -1,0 +1,51 @@
+{
+    "blogPosts": 
+[
+      {
+        "id": 1,
+        "authorName": "John Smith",
+        "blogTitle": "Programming is Enjoyable",
+        "images": {
+          "blogCoverImage": "/Images/Rectangle 1.png",
+          "authorImage": "/Images/Ellipse 1.png"
+        },
+        "readTime": "5 minutes",
+        "publishDate": "2022-01-01"
+      },
+      {
+        "id": 2,
+        "authorName": "Jane Doe",
+        "blogTitle": "Exploring Computer Science",
+        "images": {
+          "blogCoverImage": "/Images/Rectangle 1(1).png",
+          "authorImage": "/Images/Ellipse 1(1).png"
+        },
+        "readTime": "8 minutes",
+        "publishDate": "2022-02-15"
+      },
+      {
+        "id": 3,
+        "authorName": "Angelica Gomez",
+        "blogTitle": "The Future of Artificial Intelligence",
+        "images": {
+          "blogCoverImage": "/Images/Future AI.jpg",
+          "authorImage": "/Images/AI.jpg"
+        },
+        "readTime": "10 minutes",
+        "publishDate": "2022-03-20"
+      },
+      {
+        "id": 4,
+        "authorName": "Emily Davis",
+        "blogTitle": "Security System for privacy",
+        "images": {
+          "blogCoverImage": "/Images/Rectangle 1(2).png",
+          "authorImage": "/images/Ellipse 1(2).png"
+        },
+        "readTime": "7 minutes",
+        "publishDate": "2022-04-10"
+      }
+    ]
+}
+ 
+  
