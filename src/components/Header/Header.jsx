@@ -1,9 +1,12 @@
 import React from 'react';
+import './Header.css'
 
 const Header = () => {
     return (
-        <div>
-            <h1>Knowledge Cafe</h1>
+        <div className='Header'>
+            <h2 className='Heading'>Knowledge Cafe</h2>
+            
+            
         </div>
     );
 };

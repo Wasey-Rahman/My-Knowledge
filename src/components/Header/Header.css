@@ -1,0 +1,18 @@
+#root{
+    padding: 0 2rem;
+    min-width: 100%;
+}
+.Header{
+display: flex;
+align-items: center;
+}
+
+
+
+.Heading{
+    position: absolute;
+    width: 306px;
+    height: 64px;
+    left: 320px;
+    top: 20px;
+}
