@@ -12,8 +12,8 @@ align-items: center;
     position: absolute;
     width: 306px;
     height: 64px;
-    left: 500px;
-    right: 320px;
+    left: 100px;
+    right: 500px;
     top: 50px;
     }
     
@@ -26,6 +26,7 @@ align-items: center;
     position: absolute;
     width: 306px;
     height: 64px;
-    left: 200px;
+    left: 100px;
     top: 20px;
+    
 }

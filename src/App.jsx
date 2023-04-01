@@ -5,13 +5,14 @@ import Learn from './components/Learn/Learn';
 
 
 
+
 function App() {
   
 
   return (
     <div className="App">
     <Header></Header>
-    <Learn></Learn>
+   <Learn></Learn>
       </div>
   )
 }
