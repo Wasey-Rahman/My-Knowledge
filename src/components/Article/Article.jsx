@@ -5,9 +5,10 @@ const Article = (props) => {
     return (
         <div className='item'>
            <img src={blogCoverImage} alt="" />
+           <h6 className='Read'>{readTime}</h6>
            <img src={authorImage} alt="" className='Author-img'/>
            <h3 className='Author-name'>{authorName}</h3>
-           <h6>{publishDate}</h6>
+          <h6 className='Author-name'>{publishDate}</h6>
            <h2>{blogTitle}</h2>
            
           
