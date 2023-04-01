@@ -3,10 +3,8 @@
       "id": "6427e24a6b090d9eeab0a4de",
       "authorName": "John Smith",
         "blogTitle": "Programming is Enjoyable",
-        "images": {
-          "blogCoverImage": "/Images/Rectangle 1.png",
-          "authorImage": "/Images/Ellipse 1.png"
-        },
+        "blogCoverImage": "https://media.istockphoto.com/id/1218201981/photo/young-asian-entrepreneur-male-planing-with-virtual-screen-device-business-strategy-ideas.jpg?b=1&s=170667a&w=0&k=20&c=Vtyyq6PiazF1PYHlxCXMw4znF2uhub-n3akLkf0sQ94=",
+        "authorImage": "https://media.istockphoto.com/id/1300972574/photo/millennial-male-team-leader-organize-virtual-workshop-with-employees-online.jpg?s=612x612&w=0&k=20&c=uP9rKidKETywVil0dbvg_vAKyv2wjXMwWJDNPHzc_Ug=",
         "readTime": "5 minutes",
         "publishDate": "Mar 4 (27 Days ago)"
     },
@@ -14,10 +12,8 @@
       "id": "6427e24a686dc5b792173974",
       "authorName": "Jane Doe",
         "blogTitle": "Exploring Computer Science",
-        "images": {
-          "blogCoverImage": "/Images/Rectangle 1(1).png",
-          "authorImage": "/Images/Ellipse 1(1).png"
-        },
+        "blogCoverImage": "https://media.istockphoto.com/id/1357767557/photo/search-find-web-online-technology-internet-website-concept.jpg?b=1&s=170667a&w=0&k=20&c=27aNVKvJ--PiaK3upZQKWxhbLzVNWn-hSWKT6lN0iaM=",
+        "authorImage": "https://media.istockphoto.com/id/1388253782/photo/positive-successful-millennial-business-professional-man-head-shot-portrait.jpg?s=612x612&w=0&k=20&c=uS4knmZ88zNA_OjNaE_JCRuq9qn3ycgtHKDKdJSnGdY=",
         "readTime": "8 minutes",
         "publishDate": "Mar 14 (17 Days ago)"
     },
@@ -25,10 +21,8 @@
       "id": "6427e24ae493dae4121b87d4",
       "authorName": "Angelica Gomez",
         "blogTitle": "The Future of Artificial Intelligence",
-        "images": {
-          "blogCoverImage": "/Images/Future AI.jpg",
-          "authorImage": "/Images/AI.jpg"
-        },
+        "blogCoverImage": "https://media.istockphoto.com/id/1387900612/photo/automation-data-analytic-with-robot-and-digital-visualization-for-big-data-scientist.jpg?b=1&s=170667a&w=0&k=20&c=y04l1VybMF6_DfQqJD9s675R9DCxGr9dOnGrFCDEpxI=",
+        "authorImage": "https://media.istockphoto.com/id/1317804578/photo/one-businesswoman-headshot-smiling-at-the-camera.jpg?s=612x612&w=0&k=20&c=EqR2Lffp4tkIYzpqYh8aYIPRr-gmZliRHRxcQC5yylY=",
         "readTime": "10 minutes",
         "publishDate": "Feb 28 (33 Days ago)"
     },
@@ -36,10 +30,8 @@
       "id": "6427e24aa0bddcad67c85924",
       "authorName": "Emily Davis",
         "blogTitle": "Security System for privacy",
-        "images": {
-          "blogCoverImage": "/Images/Rectangle 1(2).png",
-          "authorImage": "/images/Ellipse 1(2).png"
-        },
+        "blogCoverImage": "https://media.istockphoto.com/id/155438989/photo/computer-security.jpg?b=1&s=170667a&w=0&k=20&c=CY41P7uPnUNMBevLRM4HE3Nr7UQBoWCRK-SVB78u32I=",
+        "authorImage": "https://media.istockphoto.com/id/1399788030/photo/portrait-of-young-confident-indian-woman-pose-on-background.jpg?s=612x612&w=0&k=20&c=aQw5YhGl99hL1O77thwpQTmqVE7bc8rCX9H0gTeoX_k=",
         "readTime": "15 minutes",
         "publishDate": "Mar 29 (3 Days ago)"
     }
