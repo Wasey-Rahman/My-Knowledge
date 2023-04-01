@@ -7,6 +7,7 @@ const Article = (props) => {
            <img src={blogCoverImage} alt="" />
            <img src={authorImage} alt="" className='Author-img'/>
            <h3 className='Author-name'>{authorName}</h3>
+           <h2>{blogTitle}</h2>
            
           
           
