@@ -12,12 +12,12 @@
 
 .Author-name{
     margin-top: 1px;
-    margin-right: 200px;
+    margin-right: 700px;
 }
 
 .Read{
     margin-top: 50px;
-    margin-left: 200px;
+    margin-right: 500px;
 }
 
 
@@ -27,7 +27,7 @@
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
-    margin-right: 200px;
+    margin-right: 700px;
    
     text-decoration-line: underline;
     
@@ -35,8 +35,11 @@
 }
 .Bookmark{
     
-    margin-left: 300px;
+    margin-left: 50px;
 }
 
+.blog{
+    margin-right: 550px;
+}
 
 

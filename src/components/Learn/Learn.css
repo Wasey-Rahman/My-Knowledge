@@ -3,29 +3,3 @@
     /* grid-template-columns: 1fr 1fr; */
 }
 
-.time{
-    position: absolute;
-    width: 313px;
-    height: 38px;
-    left: 700px;
-    top: 100px;
-    
-    font-family: 'Exo 2';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 160%;
-    
-}
-
-.Title{
-     color: #6047EC;
-     background: rgba(96, 71, 236, 0.1);
-border: 1px solid #6047EC;
-border-radius: 8px;
-}
-
-.bookmark-container{
-    background: rgba(17, 17, 17, 0.05);
-border-radius: 8px;
-}

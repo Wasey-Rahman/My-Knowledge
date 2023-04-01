@@ -1,0 +1,22 @@
+import React from 'react';
+import './Question.css'
+const Question = () => {
+    return (
+        <div className='question'>
+            <h3>1)Difference between props and state.</h3>
+            <p>The Difference is discussed below.The state is possessed locally, and the component itself upgrades it. Props are possessed and perused as it were by a parent. Props can be changed as it were in case an upstream move is caused by a callback work passed on to the child.State changes can be asynchronous and Props are read only.Furthermore,State can be changed(mutable).On the other hand,Props are perused as it were and cannot be changed (permanent).</p>
+
+            <h3>2)How does useState work?</h3>
+            <p>The useState work in the following way described below.The Respond useState Snare permits us to have state factors in useful components. We pass the introductory state to this work, and it returns a variable with the current state esteem (not fundamentally the introductory state) and another work to upgrade this esteem. useState can store any type of value, whereas the state in a class component is limited to being an object. This includes primitive data types like string, number, and Boolean, as well as complex data types such as array, object, and function. It can even cover custom data types like class instances.Basically, anything that can be stored in a JavaScript variable can be stored in a state managed by useState.</p>
+
+            <h3>3)Purpose of useEffect other than fetching data.</h3>
+            <p> Purpose of useEffect other than fetching data are discussed below.Use React's useEffect method to implement side effects in your functional components. Any action that impacts something outside the current function is referred to as having side effects. Examples include changing the DOM, configuring timers or event handlers, or dealing with external APIs.UseEffect can be used for other things in addition to getting data, which is one of its typical use cases. Here are a few instances:Changing the document title: Using useEffect and the present status of your component, you can change the document title. For instance, you might want to alter a page's header based on the user's activities or the information being shown.Taking care of subscriptions: If your component needs to join an outside event source, such Use useEffect to handle the subscription and cleaning when the component is unmounted, whether it be as a WebSocket or a server-sent event.movements: You can use useEffect to start movements when the state or properties of a component change. For instance, you might want to roll out or fade in a component as it shows or vanishes on the screen.Managing timers: Use useEffect to set up and tear down the timer if your component needs to run code at regular intervals.Use useEffect whenever you need to carry out a secondary action unrelated to data gathering in general. Making ensuring the side affect is properly handled and cleaned up after use is crucial.
+            </p>
+
+            <h3>4)How Does React work?</h3>
+            <p>React may be a JavaScript library for building client interfacing, which was made by Facebook. It works by permitting engineers to construct reusable UI components, which can be utilized to construct complex client interfacing.React employments a virtual DOM (Report Question Demonstrate) to speak to the UI components. This implies that when a client interatomic with the UI, Respond does not overhaul the genuine DOM promptly. Instep, Respond updates a virtual representation of the DOM, and after that calculates the foremost productive way to overhaul the genuine DOM.This approach has a few benefits. Firstly, it permits React to overhaul the UI more productively, because it can calculate the least number of changes required to upgrade the genuine DOM. Besides, it makes it less demanding for developers to reason around the state of the UI, as they can work with a virtual representation of the DOM, instead of having to specifically control the genuine DOM.React moreover employments a one-way information stream, which implies that information streams down from a parent component to its child components. This makes a difference to create Respond applications more unsurprising and less demanding to investigate.By and large, Respond gives a effective set of devices for building complex client interfacing with a tall degree of seclusion and reusability.</p>
+        </div>
+    );
+};
+
+export default Question;
